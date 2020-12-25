@@ -19,5 +19,5 @@ URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9068049&isnumber=9
 
 ## Cite This:
 M. Atikuzzaman, M. Asaduzzaman and M. Z. Islam, "Vehicle Number Plate Detection and Categorization Using CNNs," 2019 International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 2019, pp. 1-5, doi: 10.1109/STI47673.2019.9068049.
-## Or
+### Or
 @INPROCEEDINGS{atikuzzaman2019vehicle,  author={M. {Atikuzzaman} and M. {Asaduzzaman} and M. Z. {Islam}},  booktitle={2019 International Conference on Sustainable Technologies for Industry 4.0 (STI)},   title={Vehicle Number Plate Detection and Categorization Using CNNs},   year={2019},  volume={},  number={},  pages={1-5},  doi={10.1109/STI47673.2019.9068049}}
