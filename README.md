@@ -1,7 +1,6 @@
-# Vehicle-Number-Plate-Detection-and-Categorization-Using-CNNs
-Vehicle Number Plate Detection and Categorization Using CNNs DataSet
+# Vehicle Number Plate Detection and Categorization Using CNNs DataSet
 
-This paper demonstrates the use of haar-clasifier and CNN to automatically detect number plates (Bangldeshi) from vehicles.
+### This paper demonstrates the use of haar-clasifier and CNN to automatically detect number plates (Bangldeshi) from vehicles.
 
 M. Atikuzzaman, M. Asaduzzaman and M. Z. Islam, "Vehicle Number Plate Detection and Categorization Using CNNs," 2019 International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 2019, pp. 1-5, doi: 10.1109/STI47673.2019.9068049.
 
