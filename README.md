@@ -1,5 +1,5 @@
 # Vehicle-Number-Plate-Detection-and-Categorization-Using-CNNs
-Vehicle Number Plate Detection and Categorization Using CNNs Data Set
+Vehicle Number Plate Detection and Categorization Using CNNs DataSet
 
 This paper demonstrates the use of haar-clasifier and CNN to automatically detect number plates (Bangldeshi) from vehicles.
 
@@ -11,7 +11,7 @@ Real-Time Vehicle Number Plate Recognition (ANPR) has been a recurrent subject o
 URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9068049&isnumber=9067972
 
 
-## Dataset used: [Dataset](https://drive.google.com/file/d/1T2Y9Uo0yQA4CddqAKRcDWIcKs4G95XkF/view?usp=sharing)
+# Dataset used: [Download Dataset](https://drive.google.com/file/d/1T2Y9Uo0yQA4CddqAKRcDWIcKs4G95XkF/view?usp=sharing)
 
 ## Demo Vehicle Number Plate detection and Categorization:
 ![Demo Car plate detection](https://github.com/atikuzzaman524/Vehicle-Number-Plate-Detection-and-Categorization-Using-CNNs/blob/main/DemoTest/PlateDetection.PNG)
